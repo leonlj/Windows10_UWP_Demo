@@ -1,0 +1,2 @@
+MainPackage=C:\Projects\FaceDetectionWithIoT\bin\ARM\Release\CameraFaceDetection_1.1.12.0_ARM.appx
+SymbolPackage=C:\Projects\FaceDetectionWithIoT\AppPackages\CameraFaceDetection_1.1.12.0_Test\CameraFaceDetection_1.1.12.0_ARM.appxsym
